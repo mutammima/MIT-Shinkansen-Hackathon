@@ -30,3 +30,6 @@ Evaluation Criteria:
 Accuracy Score: The evaluation metric is simply the percentage of predictions made by the model that turned out to be correct. This is also called the accuracy of the model. It will be calculated as the total number of correct predictions (True Positives + True Negatives) divided by the total number of observations in the dataset.
  
 In other words, the best possible accuracy is 100% (or 1), and the worst possible accuracy is 0%.
+
+
+Accuracy: 95.38%, 9th place solo
